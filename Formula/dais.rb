@@ -1,8 +1,8 @@
 class Dais < Formula
   desc "Control panel for an autonomous multi-agent software company"
   homepage "https://github.com/eigensoftware/dais"
-  url "https://github.com/eigensoftware/dais/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "e5fe1af4fe6d8ee025ade43baa75c1d0fd3386141c6c12db4ba8f5f704c8d67c"
+  url "https://github.com/eigensoftware/dais/archive/refs/tags/v0.4.1.tar.gz"
+  sha256 "1aa12f37a72ced668a57eb8641aa5125a72c89d583ea96306f5099df542f94ed"
   license "MIT"
   head "https://github.com/eigensoftware/dais.git", branch: "main"
 
